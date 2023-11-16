@@ -57,10 +57,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nurfadilahzulfi/nurfadilahzulfi/output/snake.yml" alt="Snake animation" />
-
 ###
 
 <div align="left">

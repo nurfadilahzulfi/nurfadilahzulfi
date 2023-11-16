@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zulfi and I'm a Software Engineer, from Politeknik Negeri Lhokseumawe </h2>
+<h2 align="left">Hi 👋! My name is Zulfi and I'm a Junior Software Engineer, from Politeknik Negeri Lhokseumawe </h2>
 
 ###
 

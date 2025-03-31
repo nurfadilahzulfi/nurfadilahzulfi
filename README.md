@@ -155,15 +155,3 @@
 
 <!-- Footer -->
 <hr>
-
-<div align="center">
-  <p>💬 Jangan ragu untuk menghubungi saya!</p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=username-anda&color=blueviolet&style=flat" alt="Profile views" />
-  </p>
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/username-anda/username-anda/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>

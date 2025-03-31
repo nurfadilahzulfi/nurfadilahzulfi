@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&random=false&width=600&lines=Halo%2C+Saya+%5BNur Fadilah+Zulfi%5D;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&random=false&width=600&lines=Halo%2C+Saya+%5BNur+Fadilah+Zulfi%5D;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU3NzRiOWVhODRiZDk4ZjBkYWMxODczMzYzZWY5MmYwNzIwYjZjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UVG0BN8TOMKkPOJS6M/giphy.gif" width="25"> Tentang Saya</h2>
 
 <p>
-  Saya adalah seorang pengembang software yang bersemangat tentang menciptakan solusi teknologi yang elegan. Saat ini saya fokus pada pengembangan web full-stack dan data science.
+  Saya adalah seorang pengembang software yang bersemangat tentang menciptakan solusi teknologi yang elegan. Saat ini saya fokus pada pengembangan Kecerdasan buatan dan data science.
 </p>
 
 <!-- Connect with me -->

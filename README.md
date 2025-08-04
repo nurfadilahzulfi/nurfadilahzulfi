@@ -96,22 +96,6 @@ const nurFadilah = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🎯 Pinned Repositories
-<a href="https://github.com/nurfadilahzulfi/ChatBot_OpenAI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nurfadilahzulfi&repo=project1&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/nurfadilahzulfi/sushi_restaurant_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nurfadilahzulfi&repo=project2&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
 ## 💼 Professional Experience
 
 <table>
@@ -175,8 +159,6 @@ const nurFadilah = {
 <img src="https://ghchart.rshah.org/58a6ff/nurfadilahzulfi" alt="GitHub Contribution Chart" width="100%"/>
 🔥 Contribution Heatmap
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurfadilahzulfi&theme=radical" />
-📊 Detailed GitHub Metrics
-<img src="https://metrics.lecoq.io/nurfadilahzulfi?template=classic&config.timezone=Asia%2FJakarta&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&config.theme=dark" width="100%"/>
 </div>
 🎯 Alternative Activity Visualizations
 <details>

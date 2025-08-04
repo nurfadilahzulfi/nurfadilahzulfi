@@ -23,7 +23,7 @@
 const nurFadilah = {
   pronouns: "He/His",
   location: "Indonesia 🇮🇩",
-  role: "Full Stack Developer",
+  role: "Software Engineer",
   languages: ["JavaScript", "Python", "Java", "TypeScript"],
   askMeAbout: ["Web Dev", "Machine Learning", "API Design"],
   technologies: {
@@ -33,7 +33,7 @@ const nurFadilah = {
     cloud: ["AWS", "Docker", "Kubernetes"],
     tools: ["Git", "Jenkins", "VS Code"]
   },
-  currentlyLearning: "Machine Learning & AI",
+  currentlyLearning: "Machine Learning & Data Science",
   funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
@@ -101,10 +101,10 @@ const nurFadilah = {
 <div align="center">
 
 ### 🎯 Pinned Repositories
-<a href="https://github.com/nurfadilahzulfi/project1">
+<a href="https://github.com/nurfadilahzulfi/ChatBot_OpenAI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nurfadilahzulfi&repo=project1&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/nurfadilahzulfi/project2">
+<a href="https://github.com/nurfadilahzulfi/sushi_restaurant_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nurfadilahzulfi&repo=project2&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
 
@@ -119,10 +119,10 @@ const nurFadilah = {
 <td width="50%">
 
 ### 🎯 Current Role
-**Senior Developer** at *[Company Name]*  
-📅 *Jan 2023 - Present*
+**Internship** at *[PT Industri Nabati Lestari]*  
+📅 *Juli 2025 - Present*
 
-- 🚀 Developing cloud-based applications
+- 🚀 Developing Artificial Intelligence
 - 👥 Leading development teams  
 - 🔧 Implementing new features
 - 🐛 Technical problem solving
@@ -131,11 +131,10 @@ const nurFadilah = {
 <td width="50%">
 
 ### 🔄 Previous Role  
-**Full Stack Developer** at *[Company Name]*  
-📅 *Jan 2020 - Dec 2022*
+**Machine Learning Engineer** at *Freelance*  
+📅 *January 2024 - Present*
 
-- ⚛️ React & Node.js development
-- 🗄️ MongoDB database design
+- ⚛️ Data Analytics
 - ⚡ Performance optimization
 - 💡 User experience improvement
 
@@ -151,8 +150,7 @@ const nurFadilah = {
 
 | 🎓 Degree | 🏫 Institution | 📅 Year |
 |-----------|----------------|----------|
-| 🎯 Master in [Your Major] | [University Name] | 2018-2020 |
-| 📚 Bachelor in [Your Major] | [University Name] | 2014-2018 |
+| 📚 Bachelor in [Informatics Engineering] | [Polytechnic State of Lhokseumawe] | 2022-2026 |
 
 </div>
 
@@ -199,20 +197,32 @@ const nurFadilah = {
 
 ---
 
-## 🐍 Contribution Snake
-
+🌟 GitHub Contributions & Activity
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nurfadilahzulfi/nurfadilahzulfi/output/github-contribution-grid-snake-dark.svg" />
+📈 Contribution Calendar
+<img src="https://ghchart.rshah.org/58a6ff/nurfadilahzulfi" alt="GitHub Contribution Chart" width="100%"/>
+🔥 Contribution Heatmap
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurfadilahzulfi&theme=radical" />
+📊 Detailed GitHub Metrics
+<img src="https://metrics.lecoq.io/nurfadilahzulfi?template=classic&config.timezone=Asia%2FJakarta&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&config.theme=dark" width="100%"/>
 </div>
-
----
+🎯 Alternative Activity Visualizations
+<details>
+<summary>📊 Expand for More Detailed Stats</summary>
+<div align="center">
+💳 GitHub Profile Summary Cards
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nurfadilahzulfi&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nurfadilahzulfi&theme=radical" />
+📅 Productive Time & Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nurfadilahzulfi&theme=radical&utcOffset=7" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurfadilahzulfi&theme=radical" />
+🌟 3D Contribution Graph
+<img src="https://github-readme-stats.vercel.app/api?username=nurfadilahzulfi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Overview&hide=issues" />
+</div>
+</details>
 
 <div align="center">
-  
-  ### ⭐ Don't forget to star some repositories if you find them interesting!
-  
+⭐ Don't forget to star some repositories if you find them interesting!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-  
-  **💙 Thanks for visiting! Have a great day!**
-  
+💙 Thanks for visiting! Have a great day!
 </div>

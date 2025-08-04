@@ -147,7 +147,7 @@ const nurFadilah = {
 
 ---
 
-🌟 GitHub Contributions & Activity
+## 🌟 GitHub Contributions & Activity
 <div align="center">
 📈 Contribution Calendar
 <img src="https://ghchart.rshah.org/58a6ff/nurfadilahzulfi" alt="GitHub Contribution Chart" width="100%"/>

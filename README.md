@@ -98,6 +98,7 @@ const nurFadilah = {
 
 ## 💼 Professional Experience
 
+<center>
 <table>
 <tr>
 <td width="50%">
@@ -125,6 +126,7 @@ const nurFadilah = {
 </td>
 </tr>
 </table>
+</center>
 
 ---
 

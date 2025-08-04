@@ -156,34 +156,6 @@ const nurFadilah = {
 
 ---
 
-## 📝 Latest Blog Posts & Articles
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-📚 [Judul Artikel Menarik Tentang JavaScript](https://link-artikel-1.com)  
-🤖 [Machine Learning untuk Pemula: Tips & Tricks](https://link-artikel-2.com)  
-🚀 [Optimasi Performance React App](https://link-artikel-3.com)  
-<!-- BLOG-POST-LIST:END -->
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://nurfadilahzulfi.pythonanywhere.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-fadilah-zulfi-43a966257)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurfadilahzulfi@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-
-</div>
-
----
-
 ## 💡 Fun Stats
 
 <div align="center">

@@ -95,10 +95,8 @@ const nurFadilah = {
 </div>
 
 ---
-
-## 💼 Professional Experience
-
 <center>
+## 💼 Professional Experience
 <table>
 <tr>
 <td width="50%">

@@ -145,10 +145,6 @@ const nurFadilah = {
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-### 🎵 Currently Vibing To
-[![Spotify](https://novatorem-ten-phi.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
 </div>
 
 ---
